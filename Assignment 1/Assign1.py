@@ -34,17 +34,19 @@ def inputRestriction():
 def seniorCheck():
   print("Is owner senior? (Y,y,N,n): ")
   r = input()
-  if r == "y":
-    seniorCheck.areYouSenior = 1
+  if r == "y" or r == "Y":
+    y = r.lower()
+    seniorCheck.areYouSenior = y
 
-  elif r == "n":
-    seniorCheck.areYouSenior = 0
+  elif r == "n" or r == "N":
+    z = r.lower()
+    seniorCheck.areYouSenior = z
 
   else:
     print("Please try again.")
     seniorCheck()
 
-  
+
 
 def main():
   offPeakInput = -1
@@ -66,6 +68,6 @@ def main():
     seniorCheck()
     break
 
-  print(offPeakInput,  onPeakInput, midPeakInput, seniorCheck.areYouSenior)
+  print(offPeakInput,  onPeakInput, midPeakInput)#, seniorCheck.areYouSenior)
 
 main()
