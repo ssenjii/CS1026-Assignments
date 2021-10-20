@@ -1,69 +1,59 @@
-def BasicCode(r):
-  #This is the number without the last digit
-  numModded = r // 10
-  
-  #This is the last digit of the input number
-  numLastDigit = r % 10
+#Importing the functions from the other file
+from code_check import BasicCode, PositionalCode, UPC
 
-  #Initializing the variable for the sum of the input number
-  bcSumNum = 0
+#Initializing lists for the codes
+bcList = []
+pcList = []
+upcList = []
+noneList = []
 
-  #Seperates 'numModded' into seperate entries in a list and assigns the list to a variable
-  res = [int(x) for x in str(numModded)]
-
-  #'For' loop that loops through the above list and adds each digit into the sum variable
-  for digit in res:
-    bcSumNum += digit
-
-  #takes the last digit of the sum of the numbers
-  bcSumLastDigit = bcSumNum % 10
-
-  #If the last digit of the input number matches the last digit of the sum variable, print out that it is valid, otherwise, end this function.
-  if bcSumLastDigit == numLastDigit:
-    print(r, "valid Basic Code.")
-
-def PositionalCode(r):
-  #Initializes a loop counter variable
-  loop = 0
-
-  #This is the number without the last digit
-  numModded = r // 10
-  
-  #This is the last digit of the input number
-  numLastDigit = r % 10
-
-  #Initializing the variable for the sum of the input number
-  pcSumNum = 0
-
-  #Seperates 'numModded' into seperate entries in a list and assigns the list to a variable
-  res = [int(x) for x in str(numModded)]
-
-  #'For' loop that loops through the above list and calculates the sum
-  for digit in res:
-    #Adds 1 to the loop
-    loop += 1
-
-    #Multiplies the digit to the its respective position in the number, and adds that to the sum variable
-    pcSumNum += (digit * loop)
-
-  #takes the last digit of the sum of the numbers
-  pcSumLastDigit = pcSumNum % 10
-  
-  #If the last digit of the input number matches the last digit of the sum variable, print out that it is valid, otherwise, end this function.
-  if pcSumLastDigit == numLastDigit:
-    print(r, "valid Positional Code.")
-
-
+#Main Function
 def main():
   #Gets input from user
-  r = int(input("Please enter code (digits only) (enter 0 to quit) "))
-  #If the input is 0, the program quits immediately
-  if (r == 0):
-    quit()
+  userinput = input("Please enter code (digits only) (enter 0 to quit) ")
+  #Infinite loop until user enters 0
+  while (userinput != "0"):
+    #Calls each of the functions to determine whether or not it is that type of code.
+    BasicCode(userinput)
+    PositionalCode(userinput)
+    UPC(userinput)
+
+    #'If' loop to put the input into its respective list
+    if BasicCode.boolean == True and userinput != "0":
+      bcList.append(userinput)
+    if PositionalCode.boolean == True and userinput != "0":
+      pcList.append(userinput)
+    if UPC.boolean == True and userinput != "0":
+      upcList.append(userinput)
+    
+    #If the code returns False in all cases (meaning its none of the 3 types of code), and if the input isn't 0, add it to the 'none' list
+    if BasicCode.boolean == False and PositionalCode.boolean == False and UPC.boolean == False and userinput != "0":
+      print("--code:", userinput, "not Basic, Position, or UPC Code.")
+      noneList.append(userinput)
+    #calls the main function again to loop
+    main()
+
+  #If a list is empty, append the string "None" to it.
+  if not bcList:
+    bcList.append("None")
+  if not pcList:
+    pcList.append("None")
+  if not upcList:
+    upcList.append("None")
+  if not noneList:
+    noneList.append("None")
+
+  #The next 4 lines makes it so that when the lists are printed, it's not printed with the brackets
+  bc = ', '.join(bcList)
+  pc = ', '.join(pcList)
+  upc = ', '.join(upcList)
+  none = ', '.join(noneList)
+
+  #The print statement
+  print("Summary\nBasic : {}\nPosition : {}\nUPC : {}\nNone : {}".format(bc, pc, upc, none))
   
-  #Calls each of the functions to determine whether or not it is that type of code.
-  BasicCode(r)
-  PositionalCode(r)
+  #Exits the program
+  quit()
 
 #Calls the main function
 main()
