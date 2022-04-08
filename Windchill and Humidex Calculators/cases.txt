@@ -1,0 +1,71 @@
+==> out1.txt <==
+Enter a temperature between -50 and 50: Windchill and humidex are not a factor at this temperature.
+Check another weather condition (Y/N)? 
+==> out10.txt <==
+Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 21. Little or no discomfort.
+Check another weather condition (Y/N)? 
+==> out11.txt <==
+Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 38. Some discomfort.
+Check another weather condition (Y/N)? 
+==> out12.txt <==
+Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 44. Great discomfort. Avoid exertion.
+Check another weather condition (Y/N)? 
+==> out13.txt <==
+Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 46. Dangerous. Heat stroke possible.
+Check another weather condition (Y/N)? 
+==> out2.txt <==
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -22. Moderate risk.
+Check another weather condition (Y/N)? 
+==> out3.txt <==
+Enter a temperature between -50 and 50: Windchill and humidex are not a factor at this temperature.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -22. Moderate risk.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 46. Dangerous. Heat stroke possible.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 38. Some discomfort.
+Check another weather condition (Y/N)? 
+==> out4.txt <==
+Enter a temperature between -50 and 50: That temperature is invalid.
+Enter a temperature between -50 and 50: That temperature is invalid.
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: That wind speed is invalid.
+Enter a wind speed between 1 and 99 km/h: That wind speed is invalid.
+Enter a wind speed between 1 and 99 km/h: That wind speed is invalid.
+Enter a wind speed between 1 and 99 km/h: The windchill is -47. Very High Risk. Skin can freeze in under 10 minutes.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: That dew point is invalid.
+Enter the dewpoint between -50 and 50: That dew point is invalid.
+Enter the dewpoint between -50 and 50: The humidex is 46. Dangerous. Heat stroke possible.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Windchill and humidex are not a factor at this temperature.
+Check another weather condition (Y/N)? That input is invalid.
+Check another weather condition (Y/N)? That input is invalid.
+Check another weather condition (Y/N)? 
+==> out5.txt <==
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -41. Very High Risk. Skin can freeze in under 10 minutes.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Calculating humidex.
+Enter the dewpoint between -50 and 50: The humidex is 36. Some discomfort.
+Check another weather condition (Y/N)? Enter a temperature between -50 and 50: Windchill and humidex are not a factor at this temperature.
+Check another weather condition (Y/N)? 
+==> out6.txt <==
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -7. Low risk.
+Check another weather condition (Y/N)? 
+==> out7.txt <==
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -15. Moderate risk.
+Check another weather condition (Y/N)? 
+==> out8.txt <==
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -30. High Risk. Skin can freeze in 10-30 minutes.
+Check another weather condition (Y/N)? 
+==> out9.txt <==
+Enter a temperature between -50 and 50: Calculating windchill.
+Enter a wind speed between 1 and 99 km/h: The windchill is -45. Very High Risk. Skin can freeze in under 10 minutes.
+Check another weather condition (Y/N)? 
