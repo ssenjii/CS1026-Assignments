@@ -1,1 +1,1 @@
-# CS1026A-Assignments
+# CS1026-Assignments
