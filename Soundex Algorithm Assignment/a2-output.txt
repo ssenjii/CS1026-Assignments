@@ -1,0 +1,155 @@
+==> out01.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+
+==> out02.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Smith and Smythe have the same Soundex encoding.
+
+==> out03.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Leung and Liang have the same Soundex encoding.
+
+==> out04.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+
+==> out05.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Eaaaa and Eeeee have the same Soundex encoding.
+
+==> out06.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Schmidt and Smith have the same Soundex encoding.
+Schmidt and Smythe have the same Soundex encoding.
+Smith and Smythe have the same Soundex encoding.
+
+==> out07.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Davies and Davis have the same Soundex encoding.
+Leung and Liang have the same Soundex encoding.
+
+==> out08.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Davidson and Davvvidson have the same Soundex encoding.
+Jonston and Joonston have the same Soundex encoding.
+Peteeeerson and Peterson have the same Soundex encoding.
+Riccccccchardson and Richardson have the same Soundex encoding.
+Simppppppson and Simpson have the same Soundex encoding.
+
+==> out09.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+
+==> out10.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Abbccddllmmrr and Abcdlmr have the same Soundex encoding.
+Accddllmmrrbb and Acdlmrb have the same Soundex encoding.
+Addllmmrrbbcc and Adlmrbc have the same Soundex encoding.
+Allmmrrbbccdd and Almrbcd have the same Soundex encoding.
+
+==> out11.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+AL and All have the same Soundex encoding.
+Baq and ByUHHqiYE have the same Soundex encoding.
+HGsqcvEyd and HzJcjVDR have the same Soundex encoding.
+QQCUT and QoEHT have the same Soundex encoding.
+TCU and Ts have the same Soundex encoding.
+UK and UOHIaSj have the same Soundex encoding.
+VVcpdcqsIiBOP and VcjywFt have the same Soundex encoding.
+
+==> out12.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+aajde and aoajde have the same Soundex encoding.
+amegieiuiiwxwiypusqaudotwofe and amgiwxwypsqdtwfe have the same Soundex encoding.
+aoixmub and axmub have the same Soundex encoding.
+auweleiweiutjg and awlwutjg have the same Soundex encoding.
+boybkhpnteiaio and bybkhpntaio have the same Soundex encoding.
+byiqjeehtvcjuiavochb and byiqjhtvcjavchb have the same Soundex encoding.
+caueyoewuyb and cueyowuyb have the same Soundex encoding.
+cbonyoezzguin and cbonyzzgin have the same Soundex encoding.
+ciovuhqaweeqyotzefbgoouf and cvhqawqyotzfbgof have the same Soundex encoding.
+cjyiieijjuoiioulcwoiy and cjyjjoilcwoiy have the same Soundex encoding.
+dcifbaqsmesscc and duciiefbaqsameaseuscc have the same Soundex encoding.
+doiybghkx and dybghkx have the same Soundex encoding.
+dpcsq and dupicsq have the same Soundex encoding.
+dsewiwconiweeeor and dsewwcnwer have the same Soundex encoding.
+eeipegrybzshw and eeipegurybziiosohw have the same Soundex encoding.
+ekpyjaacemglx and ekpyjacmglx have the same Soundex encoding.
+epcaisiieuwie and epcisiuwe have the same Soundex encoding.
+eqkmmijunpshiosuog and eqkmmjnpshisug have the same Soundex encoding.
+ffcopth and ffcpth have the same Soundex encoding.
+fiuyejieuano and fyjieno have the same Soundex encoding.
+flikurheapuv and flkrhpv have the same Soundex encoding.
+fmeiaapdvaz and fmipdvz have the same Soundex encoding.
+foyzieljig and fyziljg have the same Soundex encoding.
+hagvpbwhk and haigvpbwohaek have the same Soundex encoding.
+haugmjrizlc and hieaugmajarizaulc have the same Soundex encoding.
+hauono and hauouoano have the same Soundex encoding.
+hluzddc and hlzddc have the same Soundex encoding.
+ixcejlitr and ixcejoeileitr have the same Soundex encoding.
+jbgznugixsto and jboigznugixsuuiuotao have the same Soundex encoding.
+jhiodlj and juehiodliej have the same Soundex encoding.
+jhndcjjtjx and johendicjjotaejx have the same Soundex encoding.
+jnziniovbgiow and jnzinovbgow have the same Soundex encoding.
+jsaaao and jsaao have the same Soundex encoding.
+kabkwgoaagaej and kbkwgagj have the same Soundex encoding.
+kafulectlnlu and kaufeuuelectlienelu have the same Soundex encoding.
+kjpiosieboicxurouee and kjpisibcxree have the same Soundex encoding.
+kuanmpaibhkzu and kunmpibhkzu have the same Soundex encoding.
+kvynjiwsfzrjs and kvyonjiwsfouzrjs have the same Soundex encoding.
+leaiiinlxzrcaiieoeblmis and linlxzrcaeblms have the same Soundex encoding.
+lxvmojcznkifcws and lxvmojczonkieficows have the same Soundex encoding.
+makaiiudaho and makdaho have the same Soundex encoding.
+mepkjmebilq and mpkjmeblq have the same Soundex encoding.
+mgfeoqjavxgjkrj and mgfqjvxgjkrj have the same Soundex encoding.
+namnfaef and noumbopef have the same Soundex encoding.
+nrkdklwhzbuilixh and nrokduklwihazbuiuiuleoaiiixh have the same Soundex encoding.
+oeeoooopsexeiuawiaiunyi and oeopsexeiwiinyi have the same Soundex encoding.
+oipiioce and opice have the same Soundex encoding.
+onbfarzybam and onbfarzyboaoaem have the same Soundex encoding.
+oouqteowwvcd and ouqtewwvcd have the same Soundex encoding.
+pgafuyuofaedbrroxhfue and pgfyfdbrrxhfe have the same Soundex encoding.
+pwdalyt and pwdlyt have the same Soundex encoding.
+qfippdziplem and qfippudezeiplem have the same Soundex encoding.
+qnelyn and qnlyn have the same Soundex encoding.
+raieamvm and riemvm have the same Soundex encoding.
+revuawqsyqtoroueczl and rvuwqsyqtroeczl have the same Soundex encoding.
+rluiuileukjjeaw and rlulekjjw have the same Soundex encoding.
+sdmoysf and sdmysf have the same Soundex encoding.
+sdmoysf and sjtonqbwbuyir have the same Soundex encoding.
+sdmoysf and sjtuiaonuqoboiwibouyir have the same Soundex encoding.
+sdmysf and sjtonqbwbuyir have the same Soundex encoding.
+sdmysf and sjtuiaonuqoboiwibouyir have the same Soundex encoding.
+sebwhgoszidmzqpr and sephkuqioelwobq have the same Soundex encoding.
+sebwhgoszidmzqpr and souiuebwhgioszioiuadoeomzqpr have the same Soundex encoding.
+segsxtn and sueiiugsxton have the same Soundex encoding.
+sephkuqioelwobq and souiuebwhgioszioiuadoeomzqpr have the same Soundex encoding.
+sjtonqbwbuyir and sjtuiaonuqoboiwibouyir have the same Soundex encoding.
+teramotaduducxo and trmtdudcxo have the same Soundex encoding.
+tjudsjzpqwkv and tjudusjzipqwakov have the same Soundex encoding.
+toeunwuayruoyplad and tonwayrypld have the same Soundex encoding.
+ttpfwimx and ttpfwuiemx have the same Soundex encoding.
+twopeuneifgbwpagaoyataoe and twpnefgbwpgytoe have the same Soundex encoding.
+txveexeauaofyv and txvxufyv have the same Soundex encoding.
+unarviwot and unrvwt have the same Soundex encoding.
+uuwsewweoexalegalemipidusb and uwswwxleglmpdsb have the same Soundex encoding.
+vauovaolseseaauwcuamo and vavalssewcmo have the same Soundex encoding.
+vgaavkqertroiionr and vgavkqrtrnr have the same Soundex encoding.
+viklgoedod and vklgodd have the same Soundex encoding.
+virijeoemikteoxks and vrjmktexks have the same Soundex encoding.
+viyqoihueheauyaceatp and vyqhheauycatp have the same Soundex encoding.
+vjmawdmzzirg and vujmawdaomzeziiiarg have the same Soundex encoding.
+vmcnimhv and vmcnouimehv have the same Soundex encoding.
+voejzw and vooeijzw have the same Soundex encoding.
+vvileeoiszibacc and vvilszbcc have the same Soundex encoding.
+whaiabyrwuogoir and whibyrwugr have the same Soundex encoding.
+wzeltkttylqrd and wzeluetukatitylqrd have the same Soundex encoding.
+xifekqcuoil and xifkqcol have the same Soundex encoding.
+xoaofujeduu and xofujdu have the same Soundex encoding.
+xzchkiraotx and xzchkrtx have the same Soundex encoding.
+yilaxkaiih and ylaxkh have the same Soundex encoding.
+
+==> out13.txt <==
+Enter names, one on each line. Type DONE to quit entering names.
+Davies and Davis have the same Soundex encoding.
+Johanssen and Johnson have the same Soundex encoding.
+Leung and Liang have the same Soundex encoding.
+Smith and Smythe have the same Soundex encoding.
